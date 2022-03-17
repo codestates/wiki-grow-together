@@ -3,7 +3,7 @@
   "private": false,
   "description": "A simple gatsby theme to generate a markdown based wiki",
   "version": "0.1.0",
-  "author": "Anthony Powell <adpowell@mtu.edu>",
+  "author": "Johnny Ilmo Koo <johnnykoo@codestates.com>",
   "dependencies": {
     "@progress/kendo-react-animation": "^2.6.1",
     "@progress/kendo-react-treeview": "^2.6.1",
@@ -40,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cephalization/gatsby-wiki"
+    "url": "https://github.com/codestates/wiki-grow-together"
   },
   "bugs": {
-    "url": "https://github.com/cephalization/gatsby-wiki/issues"
+    "url": "https://github.com/codestates/wiki-grow-together/issues"
   }
 }
